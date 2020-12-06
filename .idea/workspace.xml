@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="TAG" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="256f9bfa-2f8b-437a-bab0-cf2d87ed5a1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="05004974264167" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Coacher" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b4x3qbsWOTxrGv9438VGPtST2C" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="05004974264167" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-14T17:12:39.387Z" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tuk.coacher" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.tuk.coacher" />
+      <recent name="com.tuk.coacher.helper" />
+    </key>
+    <key name="android.template.871333574">
+      <recent name="com.tuk.coacher" />
+    </key>
+    <key name="android.template.1441934197">
+      <recent name="com.tuk.coacher" />
+    </key>
+    <key name="android.template.202628513">
+      <recent name="com.tuk.coacher" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="256f9bfa-2f8b-437a-bab0-cf2d87ed5a1b" name="Default Changelist" comment="" />
+      <created>1587904971065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587904971065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="100" key="#PSD" timestamp="1593448362717">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="200" y="100" key="#PSD/0.0.1366.738@0.0.1366.738" timestamp="1593448362717" />
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1595518283954">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1595518283954" />
+    <state x="363" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591721138644">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="96" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1591721138644" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594914469420">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1594914469420" />
+    <state x="451" y="196" key="AndroidCreateResourceFileDialog" timestamp="1594911341110">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="451" y="196" key="AndroidCreateResourceFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1594911341110" />
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1594746666967">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1594746666967" />
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom" timestamp="1595521757632">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595521757632" />
+    <state width="1323" height="152" key="GridCell.Tab.0.center" timestamp="1595521757632">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595521757632" />
+    <state width="1323" height="152" key="GridCell.Tab.0.left" timestamp="1595521757631">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595521757631" />
+    <state width="1323" height="152" key="GridCell.Tab.0.right" timestamp="1595521757632">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595521757632" />
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom" timestamp="1593449187079">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593449187079" />
+    <state width="1323" height="226" key="GridCell.Tab.1.center" timestamp="1593449187079">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1593449187079" />
+    <state width="1323" height="226" key="GridCell.Tab.1.left" timestamp="1593449187079">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1593449187079" />
+    <state width="1323" height="226" key="GridCell.Tab.1.right" timestamp="1593449187079">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1593449187079" />
+    <state x="203" y="0" key="ScreenshotViewer.Dimensions" timestamp="1592819016294">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="203" y="0" key="ScreenshotViewer.Dimensions/0.0.1366.738@0.0.1366.738" timestamp="1592819016294" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1594916379978">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1594916379978" />
+    <state x="445" y="212" key="edit.logcat.filter.dialog.dimensions" timestamp="1593536260106">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="445" y="212" key="edit.logcat.filter.dialog.dimensions/0.0.1366.738@0.0.1366.738" timestamp="1593536260106" />
+    <state width="382" height="87" key="javadoc.popup.new" timestamp="1595521489870">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="382" height="87" key="javadoc.popup.new/0.0.1366.738@0.0.1366.738" timestamp="1595521489870" />
+    <state x="207" y="111" key="psd.add.library.dependency.panel.dimension" timestamp="1593448358662">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="207" y="111" key="psd.add.library.dependency.panel.dimension/0.0.1366.738@0.0.1366.738" timestamp="1593448358662" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1595515342844">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1595515342844" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1594746919769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1594746919769" />
+  </component>
+</project>
